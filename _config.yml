@@ -1,12 +1,18 @@
-# Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-twitter_username:
-github_username:
+# Site settings
+title: RGSAURA
+email: your-email@domain.com
+description: Fotos. Videos. 3D. Rodrigo García
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: rgsaura
+github_username:  rgsaura
 
 # Build settings
 markdown: kramdown
